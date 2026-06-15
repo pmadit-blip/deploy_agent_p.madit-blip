@@ -14,6 +14,7 @@ DIR="attendance_tracker_${input}"
 
 # === DIRECTORY ARCHITECTURE ===
 mkdir -p "$DIR/Helpers" "$DIR/reports"
+sleep 2
 
 # === CREATE FILES ===
 cat attendance_checker.py > "$DIR/attendance_checker.py" 2>/dev/null || echo "# attendance_checker.py" > "$DIR/attendance_checker.py"
