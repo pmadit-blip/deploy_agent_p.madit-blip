@@ -1,4 +1,5 @@
 # Attendance Tracker Project Bootstrap
+Link to my video https://drive.google.com/file/d/1bdq8mr3oceOAfQeBwuRZoUnY4k3B07Xg/view?usp=sharing
 
 ## Overview
 This shell script automates the creation of a Student Attendance Tracker workspace, configures settings, and handles system signals gracefully.
